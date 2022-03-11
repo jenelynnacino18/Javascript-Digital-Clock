@@ -1,0 +1,12 @@
+{
+  "name": "jsdigitalclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "compile:sass":"sass --watch scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
